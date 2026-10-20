@@ -1,1 +1,1 @@
-# proyecto_Estructura_Datos
+#GrupoX_Estructura.Datos
